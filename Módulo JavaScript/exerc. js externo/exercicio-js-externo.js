@@ -12,3 +12,4 @@ let diference = ageOlder - ageYounger
 
 alert ("A pessoa mais velha: " + nameOlder + " Tem " + ageOlder + "\nA pessoa mais nova: " + nameYounger + " Tem " + ageYounger)
 alert ("A diferença de idade é " + diference)
+
