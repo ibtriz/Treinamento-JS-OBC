@@ -1,0 +1,18 @@
+let departureDateEntry = prompt("digite a data de partida(formato DD/MM/YYYY)")
+
+//estou utilizando o moment para convertar a data em forma de string e transformando em uma forma que o moment consiga entender
+let departureDate = moment(dapartureDateEntry, "DD/MM/YYYY")
+
+let today = moment()
+
+let dateDiff = today - departureDate
+//moment transforma a data me milisegundos 
+
+let chosenOption = prompt("Escolha como gostaria de exibir o tempo de partida \n 1- Segundos \n2- Minutos \n3- Horas \n4- Dias")
+//dando opção do usuário escolher como gostaria de visualizar o tempo
+
+if(chosenOption == 1) {
+    let secondsOfDeparture = Math.round(dateDiff/1000)
+    // oq estou fazendo: armazenando em segundos de partida
+    // utilizei a biblioteca nativa do JS, math. "round" arredonda pra cima ou pra baixo um valor quebrado
+}
