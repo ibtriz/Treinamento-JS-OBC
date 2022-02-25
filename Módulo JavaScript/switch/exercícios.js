@@ -9,7 +9,7 @@
 let fruta =  prompt("Digite o nome de uma fruta") 
 switch(fruta){
     case "maça":
-    alert("Não vendemos esta fruta aqui")
+    alert("Não vendemos maças aqui")
 break
 case "kiwi":
 alert("Estamos com escassez de kiwis")
