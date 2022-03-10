@@ -6,10 +6,10 @@
 // retorne no console: “Não trabalhamos com este tipo de automóvel aqui”.
 
 let modelo = prompt("Olá, deseja ver qual modelo: \nHatch\nSedans \nMotocicletas \nCaminhonetes")
-switch(modelo){
-    case"Hatch":
-    alert("Compra efetuada com sucesso")
-    break;
-    default: 
-alert ("Tem certeza que não prefere este modelo?")
+switch (modelo) {
+    case "Hatch":
+        alert("Compra efetuada com sucesso")
+        break;
+    default:
+        alert("Tem certeza que não prefere este modelo?")
 }
