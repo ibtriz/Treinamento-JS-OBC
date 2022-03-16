@@ -1,0 +1,23 @@
+
+body{ 
+    background-size: cover;
+    background: rgb(2,0,36);
+    color: #ffff;
+}
+
+h1{
+    color: #ffff;
+}
+#days-of-week ul{
+    border: rgba(82,158,161,1) 2px solid;
+    
+}
+#days-of-week h3 {
+    border: 5px; background-color:rgb(88, 84, 143) ;}
+
+ #activities h2{
+    background-color:rgb(41, 67, 68) 
+ }
+ #activities ul{
+    border: #fff 2px solid;
+ }
