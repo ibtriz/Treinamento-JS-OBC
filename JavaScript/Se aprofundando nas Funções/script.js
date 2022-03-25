@@ -16,6 +16,7 @@ function slowDown(velocity, message) {
     while (velocity > 0) {
         message(velocity)
         velocity = -desacelerar
+        // A cada interação ela vai ser subtraída pela desaceleração
     }
     alert("A nave parou. É seguro abrir as comportas")
 }
