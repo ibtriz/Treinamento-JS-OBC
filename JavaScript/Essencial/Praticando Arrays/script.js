@@ -13,7 +13,7 @@ const listaDeNaves = [
 // Filtrar nome das naves que tem mais de 9 tripulantes
 
 let maisDe9Passageiros = listaDeNaves.filter(nave => {
-    //A variavél recebeu o aray hitchedSpaceships, chamou a ferramenta filter e fex um callback
+    //A variavél recebeu o array hitchedSpaceships, chamou a ferramenta filter e fez um callback
     //filter vai retornar as linhas:
     //      ["Golias", 10, true],
     //      ["Darwin", 15, false]
