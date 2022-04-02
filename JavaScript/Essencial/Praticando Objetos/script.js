@@ -1,3 +1,11 @@
+//aplicativo que fará mapeamento de velocidade de uma nave
+//cadastrar uma espaçonave com seu nome tipo e velocidade máxima que pode atngir sem chegar em combustão
+
+//nave deve partir do zero
+//menu deve ser exibido para o usuário se ele quwer para a nave ou acelerar
+//quando incrementar velocidade deve verificar se esta acima da velocidad emaxima dela
+
+
 let spaceship = {
     velocity: 0,
     speedUp: function(acceleration) {
@@ -8,7 +16,7 @@ let spaceship = {
 function registerSpaceship() {
     spaceship.name = prompt("Informe o nome da nave")
     spaceship.type = prompt("Informe o tipo da nave")
-    spaceship.maxVelocity = Number(prompt("Informe a velocidade mãxima da nave (km/s)"))
+    spaceship.maxVelocity = Number(prompt("Informe a velocidade máxima da nave (km/s)"))
 }
 
 function acelerate() {
