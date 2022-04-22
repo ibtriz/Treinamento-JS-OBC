@@ -1,2 +1,2 @@
-const app = new App()
+const app = new app()
 app.start()
