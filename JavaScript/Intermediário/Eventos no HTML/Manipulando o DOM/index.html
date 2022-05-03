@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <body>
+        <h3>Lista de casas</h3>
+        <form>
+          <p>
+            <label>Area: </label>
+            <input type="text" name="area" />
+          </p>
+          <p>
+            <label>Número: </label>
+            <input type="text" name="number" />
+          </p>
+          <p>
+            <label>Bairro: </label>
+            <input type="text" name="neighborhood" />
+          </p>
+          <p>
+            <label>Cidade: </label>
+            <input type="text" name="city" />
+          </p>
+          <button onclick="saveHouse" type="button">Salvar</button>
+        </form>
+        <ul id="house-list"></ul>
+        <!-- lista vazia pois os documentos serão adicionados através do javascript -->
+      </body>
+      </html>
