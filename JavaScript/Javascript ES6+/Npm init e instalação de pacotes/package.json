@@ -1,0 +1,27 @@
+{
+  "name": "npm_class",
+  "version": "1.0.0",
+  "description": "Estudando NPM",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibtriz/Treinamento-JS-OBC.git"
+  },
+  "keywords": [
+    "NPM",
+    "class",
+    "study"
+  ],
+  "author": "Beatriz F. Borges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibtriz/Treinamento-JS-OBC/issues"
+  },
+  "homepage": "https://github.com/ibtriz/Treinamento-JS-OBC#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
