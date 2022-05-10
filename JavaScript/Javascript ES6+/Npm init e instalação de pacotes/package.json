@@ -23,5 +23,10 @@
   "homepage": "https://github.com/ibtriz/Treinamento-JS-OBC#readme",
   "dependencies": {
     "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10"
   }
 }
