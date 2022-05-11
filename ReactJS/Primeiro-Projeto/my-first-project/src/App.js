@@ -1,17 +1,16 @@
 import "./App.css";
-import "./components/RickandMortyIpsun";
-import RickandMortyIpsun from "./components/RickandMortyIpsun";
-import Title from "./components/title";
+import Exercise from "./components/exercise";
+import Leagueofvillains from "./components/shared/villainList";
 
 function App() {
-  return (
+  return(
     <div className="App">
       <div id="content">
-        <Title></Title>
-        <RickandMortyIpsun></RickandMortyIpsun>
+      <Exercise></Exercise>
+        <Leagueofvillains></Leagueofvillains>
       </div>
-    </div>
-  );
+      </div>
+      );
 }
 
 export default App;
