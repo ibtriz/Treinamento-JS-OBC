@@ -15,6 +15,13 @@ Repósitorio dedicado para projetos e estudos do treinamento do Full Stack Javas
 8. [NodeJS e MongoDB]()
 9. [Typescript]()
 
+## Aproveitamento de exercícios propostos
+<img src="https://github.com/ibtriz/Treinamento-JS-OBC/blob/main/Aproveitamento%20de%20exerc%C3%ADcios%20propostos/Captura%20de%20Tela%20(28).png" alt="Screenshot" width="200"/>
+<img src="https://github.com/ibtriz/Treinamento-JS-OBC/blob/main/Aproveitamento%20de%20exerc%C3%ADcios%20propostos/Captura%20de%20Tela%20(29).png" alt="Screenshot" width="200"/>
+<img src="https://github.com/ibtriz/Treinamento-JS-OBC/blob/main/Aproveitamento%20de%20exerc%C3%ADcios%20propostos/Captura%20de%20Tela%20(30).png" alt="Screenshot" width="200"/>
+<img src="https://github.com/ibtriz/Treinamento-JS-OBC/blob/main/Aproveitamento%20de%20exerc%C3%ADcios%20propostos/Captura%20de%20Tela%20(28).png" alt="Screenshot" width="200"/>
+
+
 ## Autores
 
 - [@ibtriz](https://www.github.com/ibtriz)
