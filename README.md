@@ -5,6 +5,7 @@ Repósitorio dedicado para projetos e estudos do treinamento do Full Stack Javas
 ## Aprendizados
 
 #### Link para os Repositórios
+
 1. [HTML](https://github.com/ibtriz/Treinamento-JS-OBC/tree/main/HTML)
 2. [CSS](https://github.com/ibtriz/Treinamento-JS-OBC/tree/main/CSS)
 3. [Essencial de Javascript + Lógica](https://github.com/ibtriz/Treinamento-JS-OBC/tree/main/JavaScript/Essencial)
@@ -16,13 +17,12 @@ Repósitorio dedicado para projetos e estudos do treinamento do Full Stack Javas
 9. [Typescript]()
 
 ## Aproveitamento de exercícios propostos
-<img src="https://github.com/ibtriz/Treinamento-JS-OBC/blob/main/Aproveitamento%20de%20exerc%C3%ADcios%20propostos/Captura%20de%20Tela%20(28).png" alt="Screenshot" width="200"/>
-<img src="https://github.com/ibtriz/Treinamento-JS-OBC/blob/main/Aproveitamento%20de%20exerc%C3%ADcios%20propostos/Captura%20de%20Tela%20(29).png" alt="Screenshot" width="200"/>
-<img src="https://github.com/ibtriz/Treinamento-JS-OBC/blob/main/Aproveitamento%20de%20exerc%C3%ADcios%20propostos/Captura%20de%20Tela%20(30).png" alt="Screenshot" width="200"/>
-<img src="https://github.com/ibtriz/Treinamento-JS-OBC/blob/main/Aproveitamento%20de%20exerc%C3%ADcios%20propostos/Captura%20de%20Tela%20(28).png" alt="Screenshot" width="200"/>
 
+<img src="https://github.com/ibtriz/Treinamento-JS-OBC/blob/main/Aproveitamento%20de%20exerc%C3%ADcios%20propostos/Captura%20de%20Tela%20(28).png" alt="Screenshot" style= "display:flex;  flex-direction:row; flex-wrap:wrap; justify-content:center; width:500;"/>
+<img src="https://github.com/ibtriz/Treinamento-JS-OBC/blob/main/Aproveitamento%20de%20exerc%C3%ADcios%20propostos/Captura%20de%20Tela%20(29).png" alt="Screenshot" style= "display:flex;  flex-direction:row; flex-wrap:wrap; justify-content:center; width:500;"/>
+<img src="https://github.com/ibtriz/Treinamento-JS-OBC/blob/main/Aproveitamento%20de%20exerc%C3%ADcios%20propostos/Captura%20de%20Tela%20(30).png" alt="Screenshot" style= "display:flex;  flex-direction:row; flex-wrap:wrap; justify-content:center; width:500;"/>
+<img src="https://github.com/ibtriz/Treinamento-JS-OBC/blob/main/Aproveitamento%20de%20exerc%C3%ADcios%20propostos/Captura%20de%20Tela%20(28).png" alt="Screenshot" style= "display:flex;  flex-direction:row; flex-wrap:wrap; justify-content:center; width:500;"/>
 
 ## Autores
 
 - [@ibtriz](https://www.github.com/ibtriz)
-
