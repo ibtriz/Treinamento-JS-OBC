@@ -1,9 +1,19 @@
-
 # Treinamento Full Stack JavaScript - OneBitCode
 
-<img align="right" src="https://user-images.githubusercontent.com/89090643/165764601-65878154-df28-4859-9fc6-abbe56bda341.svg" alt="drawing" height="200"/>
+Repósitorio dedicado para projetos e estudos do treinamento do Full Stack Javascript da plataforma [OneBitCode](https://onebitcode.com/lp/).
 
-Repósitorio dedicado para projetos do treinamento do Full Stack JS.
+## Aprendizados
+
+#### Link para os Repositórios
+1. [HTML](https://github.com/ibtriz/Treinamento-JS-OBC/tree/main/HTML)
+2. [CSS](https://github.com/ibtriz/Treinamento-JS-OBC/tree/main/CSS)
+3. [Essencial de Javascript + Lógica](https://github.com/ibtriz/Treinamento-JS-OBC/tree/main/JavaScript/Essencial)
+4. [Javascript Intermediário](https://github.com/ibtriz/Treinamento-JS-OBC/tree/main/JavaScript/Intermedi%C3%A1rio): Introdução a POO, Classes, DOM, Eventos...
+5. [Javascript ES6+ (Javascript Moderno)](https://github.com/ibtriz/Treinamento-JS-OBC/tree/main/JavaScript/Javascript%20ES6%2B): Módulos, Babel, Webpack...
+6. [Git e Github](https://github.com/ibtriz/Treinamento-JS-OBC/tree/main/Git%20e%20Github)
+7. [ReactJS](https://github.com/ibtriz/Treinamento-JS-OBC/tree/main/ReactJS)
+8. [NodeJS e MongoDB]()
+9. [Typescript]()
 
 ## Autores
 
