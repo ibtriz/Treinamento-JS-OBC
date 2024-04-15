@@ -2,7 +2,7 @@
 
 var fs = require('fs')
 
-var browserslist = require('./')
+var browserslist = require('.')
 var updateDb = require('./update-db')
 var pkg = require('./package.json')
 
